@@ -1,8 +1,8 @@
 #profile-title: 🔥VPN🔥
 #profile-update-interval: 12
 #subscription-userinfo: upload=0;download=0;total=∞
-#announce: ⚡ГРУППА В ТГ⚡
-#announce-url: https://t.me/VPN_F_90V
+#announce: ⚡ТГК⚡
+#announce-url: https://t.me/F_90V_VPN
 vless://46c9a909-2e81-4f6f-b999-def280062188@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Narva%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.43.79.121:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv4%206%5D%20%7C%20%5BBL%5D
