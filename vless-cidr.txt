@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/F_90V_VPN
-vless://d51f31b4-6e74-4a57-8ea0-a62830df3f45@a-1.api.plnt.su:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=a-1.api.plnt.su&sid=ac31827454d7f693#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
-vless://16b5939f-cfc9-4e3f-b372-86498be16a0b@nl1.jugploer.icu:443?security=reality&encryption=none&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl1.jugploer.icu#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
+vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.87.24.172:8444?security=reality&encryption=none&extra=null&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&fp=chrome&type=xhttp&sni=google.com&sid=3ca620a7ed5f3196#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
 vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn2.api-rutube.ru:443?security=&encryption=none&headerType=&fp=qq&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
 vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn2.api-rutube.ru:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
-vless://16b5939f-cfc9-4e3f-b372-86498be16a0b@de1.jugploer.icu:443?security=reality&encryption=none&pbk=RAO0oF4uh8HlNfJ_4exSLb-rmXzajkoYBX7ODesoRzs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=de1.jugploer.icu#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
-vless://16b5939f-cfc9-4e3f-b372-86498be16a0b@193.23.194.88:443?security=reality&encryption=none&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl1.jugploer.icu#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
+vless://aebe6f93-7d22-4e36-90c3-67e1ed3c4b12@5.199.163.45:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=e0ef3d5c0aacb615#%F0%9F%8C%90%20Anycast-IP%20%5B*CIDR%5D
