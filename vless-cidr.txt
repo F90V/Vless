@@ -1,5 +1,5 @@
 #profile-title: 🔥Bypass whitelists🔥
-#profile-update-interval: 24
+#profile-update-interval: 6
 #subscription-userinfo: upload=0;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/F_90V_VPN
