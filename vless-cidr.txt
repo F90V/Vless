@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/F_90V_VPN
-vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.249:443?mode=packet-up&path=%2Flivestreamcontent%2F&security=tls&encryption=none&extra=null&insecure=0&host=top3739667002.mwscdn.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B*CIDR%5D
-vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.250:443?mode=packet-up&path=%2Flivestreamcontent%2F&security=tls&encryption=none&extra=null&insecure=0&host=top3739667002.mwscdn.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B*CIDR%5D
-vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.249:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B*CIDR%5D
+vless://e5488740-54ac-001f-a24d-7df428175d4c@217.16.28.235:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=&fp=chrome&type=tcp&sni=ru-cloud.221131513.xyz&sid=31181028b56c8704#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233
