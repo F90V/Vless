@@ -1,6 +1,6 @@
 #profile-title: 🔥Bypass whitelists🔥
 #profile-update-interval: 3
-#subscription-userinfo: upload=0;download=0;total=∞
+#subscription-userinfo: upload=0;download=0;total=5368709120
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/F_90V_VPN
 vless://40769826-172c-453b-9a45-05726aab0f45@193.33.133.195:8443?mode=gun&security=reality&encryption=none&pbk=njjxqThXpx5A5haAS0kBb7HU-YASlN0WyUuoMwFsnSQ&fp=chrome&type=grpc&serviceName=grpc&sni=dzen.ru#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%93%B1%F0%9F%9B%9F%D0%91%D0%95%D0%9B%D0%AB%D0%95%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98%201%20NEW
