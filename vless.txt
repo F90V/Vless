@@ -1,6 +1,6 @@
 #profile-title: 🔥VPN🔥
 #profile-update-interval: 24
-#subscription-userinfo: upload=8053063680;download=0;total=∞
+#subscription-userinfo: upload=53687091200;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/+PY00Om29TOcyZDAy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRzZfTGRDLUhMRzVjZlFNeEFUVHItWFU1WTlFcS0wNQ%3D%3D@91.226.80.225:1234#%F0%9F%87%B7%F0%9F%87%BA%20%E2%99%BE%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
