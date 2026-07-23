@@ -1,4 +1,4 @@
-#profile-title: 🔥Bypass whitelists🔥
+#profile-title: 🔥VPN🔥
 #profile-update-interval: 3
 #subscription-userinfo: upload=719407022080;download=0;total=∞
 #announce: ⚡ТГК⚡
