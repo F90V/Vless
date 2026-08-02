@@ -3,3 +3,4 @@
 #subscription-userinfo: upload=1020054732800;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/+PY00Om29TOcyZDAy
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?mode=auto&path=%2F&security=reality&encryption=none&extra=null&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&fp=chrome&type=xhttp&sni=www.nvidia.com&sid=51d3e4f6#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D%20CDN
