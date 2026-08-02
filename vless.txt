@@ -1,5 +1,5 @@
 #profile-title: 🔥VPN🔥
-#profile-update-interval: 3
+#profile-update-interval: 1
 #subscription-userinfo: upload=719407022080;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/+PY00Om29TOcyZDAy
