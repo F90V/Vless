@@ -1,5 +1,5 @@
 #profile-title: 🔥Bypass whitelists🔥
-#profile-update-interval: 3
+#profile-update-interval: 1
 #subscription-userinfo: upload=1020054732800;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/+PY00Om29TOcyZDAy
