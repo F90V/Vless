@@ -1,6 +1,6 @@
 #profile-title: 🔥Bypass whitelists🔥
 #profile-update-interval: 1
-#subscription-userinfo: upload=1020054732800;download=0;total=∞
+#subscription-userinfo: upload=0;download=0;total=∞
 #announce: ⚡ТГК⚡
 #announce-url: https://t.me/+PY00Om29TOcyZDAy
 vless://0f697813-aae7-4150-9d73-3a2c78a44a0b@91.185.83.242:48978?mode=gun&security=reality&encryption=none&pbk=UrxtKcrZO4fG8dPxf3as2Eb_IobFS8Ce3S2xB559oho&fp=qq&type=grpc&serviceName=grpc27d241&sni=360.yandex.ru&sid=72e467d6#%F0%9F%87%B3%F0%9F%87%B1%20%E2%84%964%20Whitelist%20x5%20%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20copy
